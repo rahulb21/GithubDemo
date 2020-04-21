@@ -1,3 +1,3 @@
 # GithubDemo
 
-This is the github demo by Vamshi Thanuku
+This is the github demo by Vamshi Thanuku.
